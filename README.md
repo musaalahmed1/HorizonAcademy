@@ -1,7 +1,7 @@
 # Horizon Academy Page
 
 
-> [LIVE DEMO](https://mhaecal.github.io/frontend/skilline)
+> [LIVE DEMO]([https://mhaecal.github.io/frontend/skilline](https://musaalahmed1.github.io/HorizonAcademy/))
 
 🚀 About the Project
 This website is designed for Horizon Academy, showcasing a modern and comprehensive educational platform. It blends creative design with cutting-edge technologies to provide the best user experience.
